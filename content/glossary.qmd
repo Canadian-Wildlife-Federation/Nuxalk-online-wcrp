@@ -6,7 +6,7 @@
 The degree to which aquatic species can move, disperse, or migrate freely through freshwater systems.
 
 ### Focal species or guilds {-}
-The ecologically and culturally important species (e.g., Westslope Cutthroat Trout) or groups of species for which habitat connectivity is being conserved or restored.
+The ecologically and culturally important species (e.g., Chinook Salmon) or groups of species for which habitat connectivity is being conserved or restored.
 
 ### Structure {-}
 A feature, either anthropogenic (e.g., culvert, dam) or a temporary natural feature (e.g., barrier beach, debris jam) that may fragment freshwater systems and limit the ability of species to disperse and/or migrate freely within their naturally accessible habitat. Differentiated from more permanent natural features, such as waterfalls, that delineate naturally-accessible waterbodies.
@@ -15,7 +15,7 @@ A feature, either anthropogenic (e.g., culvert, dam) or a temporary natural feat
 A set of two or more structures that must be addressed/considered together to achieve a combined increase in habitat connectivity.
 
 ### Current connectivity status {-}
- the measure (i.e., amount, proportion, or index) of habitat that is currently connected for each focal species, assuming that all unassessed structures are barriers. 
+ the measure (i.e., amount, proportion, or index) of habitat that is currently connected for each focal species, assuming that all unassessed structures are barriers.
 
 ### Rank {-}
 The relative importance of a structure (individually and/or in sets) based on the amount (km) of habitat blocked by it. For sets of structures, the total amount of habitat blocked by the set is averaged by the number of barriers in the set.  

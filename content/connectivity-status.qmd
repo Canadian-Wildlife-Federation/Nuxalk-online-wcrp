@@ -1,25 +1,21 @@
 
-# Key Ecological Attributes and Connectivity Status Results  {-}
+# Connectivity Status Results  {-}
 
 ## Current Connectivity Status {-}
-
-
-## Goals {-}
-
-
+In the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds, X km of Pacific salmon habitat are currently connected to the ocean and X km are disconnected from it. This means that X% of the X km of total habitat is connected 
 
 ## Structure Count {-}
-
+In the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds, X structures potentially disconnect Pacific salmon habitat. Of these, X are identified as barriers in need of rehabilitation (priority barriers), X are identified as barriers that do not warrant rehabilitation (non-actionable), and X require further field assessment. 
 
 
 ## Maps {-}
-
+![Figure 1: Map of Pacific salmon habitat and structures that are confirmed or potential barriers to fish passage in the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds as of May 2026. Structure data were obtained from BCFishPass and the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that one or more Pacific salmon species could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by one or more Pacific salmon species for spawning or rearing. Available local knowledge and data were incorporated and overruled habitat model results. Thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures).  ](images/Figure_1_Map.png)
 
 
 ## Habitat Accumulation Curves
-
+![Figure 2: Habitat Accumulation Curve (HAC) showing structures in the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds as of May 2026. Structures are ranked based on how much (km) habitat for Pacific salmon is upstream. The primary y-axis represents the cumulative amount of potential habitat gain (km). Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown.](images/Fig_2_HAC.png)
 
 
 ## Habitat Accumulation Summary Table
-
+Table 1: Labelled structures in the Habitat Accumulation Curve (Figure 2), their rank, and upstream habitat for Pacific salmon in Atnarko River, Necleetsconnay River, and Bella Coola River watersheds. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored.  
 
