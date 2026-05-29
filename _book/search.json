@@ -10,31 +10,11 @@
     ]
   },
   {
-    "objectID": "index.html#current-connectivity-status",
-    "href": "index.html#current-connectivity-status",
-    "title": "Stewiacke Watershed Connectivity Restoration Plan (WCRP)",
-    "section": "Current Connectivity Status",
-    "text": "Current Connectivity Status\nIn the Stewiacke watershed, 1005.73 km of Atlantic Salmon habitat are currently connected to the ocean and 1414.91 km are disconnected from it. This means that 41.5% of the 2,420.64 km of total habitat is connected.\nIn the Stewiacke watershed, 891.94 km of American Eel habitat are currently connected to the ocean and 981.76 km are disconnected from it. This means that 47.6% of the 1,873.7 km of total habitat is connected.",
-    "crumbs": [
-      "Executive Summary"
-    ]
-  },
-  {
-    "objectID": "index.html#structure-count",
-    "href": "index.html#structure-count",
-    "title": "Stewiacke Watershed Connectivity Restoration Plan (WCRP)",
-    "section": "Structure Count",
-    "text": "Structure Count\nIn the Stewiacke watershed, 3403 structures potentially disconnect Atlantic Salmon habitat (Figure 1) and 1078 structures potentially disconnect American Eel habitat (Figure 2). Based on previous assessments, 15 of these structures require additional fish-passage assessments, and 4 require in-depth habitat assessments.\n \n \n\n\nFigure 3:Habitat Accumulation Curve (HAC) showing structures in the Stewiacke watershed as of April 24, 2026. Structures are ranked based on how much (km) weighted habitat for Atlantic Salmon (Plamu) is upstream. The y-axis represents the cumulative amount of potential habitat gain (km), down-weighted by 75% for first-order streams and 25% for second-order streams, and by passability (25%, 50%, or 75%) of partial barriers. Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown.\n\n\n\n\n\nFigure 4: Habitat Accumulation Curve (HAC) showing structures in the Stewiacke watershed as of April 24, 2026. Structures are ranked based on how much (km) weighted habitat for American Eel (Kataq) is upstream. The y-axis represents the cumulative amount of potential habitat gain (km), down-weighted by 75% for first-order streams and 25% for second-order streams, and by passability (25%, 50%, or 75%) of partial barriers. Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown.",
-    "crumbs": [
-      "Executive Summary"
-    ]
-  },
-  {
-    "objectID": "index.html#progress-summary",
-    "href": "index.html#progress-summary",
-    "title": "Stewiacke Watershed Connectivity Restoration Plan (WCRP)",
-    "section": "Progress Summary",
-    "text": "Progress Summary\nThis WCRP was initiated in 2025. Since then, salmon and eel accessibility and habitat models were developed, satellite imagery review was conducted, and 92 fish passage assessments completed between 2014-2024 by the Confederacy of Mainland Mi’kmaq (CMM) were incorporated into the initial connectivity model.",
+    "objectID": "index.html#executive-summary",
+    "href": "index.html#executive-summary",
+    "title": "",
+    "section": "",
+    "text": "Figure 1: Map of Pacific salmon habitat and structures that are confirmed or potential barriers to fish passage in the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds as of May 2026. Structure data were obtained from BCFishPass and the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that one or more Pacific salmon species could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by one or more Pacific salmon species for spawning or rearing. Available local knowledge and data were incorporated and overruled habitat model results. Thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures).\n\n\n\n\n\n\nFigure 1: Figure 2: Habitat Accumulation Curve (HAC) showing structures in the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds as of May 2026. Structures are ranked based on how much (km) habitat for Pacific salmon is upstream. The primary y-axis represents the cumulative amount of potential habitat gain (km). Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown.",
     "crumbs": [
       "Executive Summary"
     ]
@@ -94,7 +74,7 @@
     "href": "content/methods.html",
     "title": "Methods",
     "section": "",
-    "text": "Accessibility Model\nConnectivity models were produced using BCFishPass, an open-source freshwater connectivity modelling framework, which combines provincial spatial layers with WCRP-specific data tables and includes two sub-models:\nNaturally accessible waterbodies are those that would likely be accessible to focal species if no human-made barriers existed on the landscape. This is treated as a proxy baseline for the historic distribution. Naturally accessible waterbodies were identified based on natural barriers (i.e., waterfalls, areas with subsurface flows, or steep stream gradients) that would naturally limit upstream movement. Modelled natural barriers were excluded if focal species observations existed upstream of them. For Pacific salmon, waterbodies are considered accessible if they are accessible to at least one species.",
+    "text": "Accessibility Model\nNaturally accessible waterbodies are those that would likely be accessible to focal species if no human-made barriers existed on the landscape. This is treated as a proxy baseline for the historic distribution. Naturally accessible waterbodies were identified based on natural barriers (i.e., waterfalls, areas with subsurface flows, or steep stream gradients) that would naturally limit upstream movement. Modelled natural barriers were excluded if focal species observations existed upstream of them. For Pacific salmon, waterbodies are considered accessible if they are accessible to at least one species.",
     "crumbs": [
       "Methods"
     ]
@@ -174,7 +154,7 @@
     "href": "content/connectivity-status.html#habitat-accumulation-summary-table",
     "title": "Connectivity Status Results",
     "section": "Habitat Accumulation Summary Table",
-    "text": "Habitat Accumulation Summary Table\nTable 1: Labelled structures in the Habitat Accumulation Curve (Figure 1), their rank, and upstream habitat for Pacific salmon in Atnarko River, Necleetsconnay River, and Bella Coola River watersheds. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored.",
+    "text": "Habitat Accumulation Summary Table\n\n\nTable 1: Labelled structures in the Habitat Accumulation Curve (@fig-2-HAC), their rank,\nand upstream habitat for Pacific salmon in Atnarko River, Necleetsconnay\nRiver, and Bella Coola River watersheds. Habitat gain (averaged across\nsets) represents the amount (km) of habitat upstream of that structure\nto the next structure and depicts the potential gain in habitat if\npassage at that structure was restored.Barrier IDSite NameStructure StatusStructure RankAverage Habitat Upstream of Structure (km)Actual Habitat Upstream of Structure (km)1000400036Maydoe Cr @ Nielsen Rd (400036)Unassessed structure12.89000000.1515f6b748-457c-4cfb-ba88-01954f24e66cMaydoe Cr @ dam (1556b)Unassessed structure12.89000005.631000400131Trib 4a to Charlotte Lk @ Unnamed (400131)Unassessed structure24.98000004.98203323Fish Cr @ Private (203323/24727680)Data-deficient barrier31.94500001.00203334Schoolhouse Cr @ Olsen Rd (203334/24727681)Data-deficient barrier31.94500002.891000400059Trib 3a to Charlotte Lk @ Unnamed (400059)Unassessed structure41.21500000.731000400471Trib 3a to Charlotte Lk @ Retired FSR (400471)Unassessed structure41.21500001.70203329Trib to Snooka Cr @ Hwy 20 (203329/1000023)Data-deficient barrier51.53000001.531000400035Trib to Maydoe Cr @ Nielsen Rd (400035)Unassessed structure61.34000001.341000400056Trib 2 to Charlotte Lk @ Private (400045)Unassessed structure71.02500000.221000400034Trib 2 to Charlotte Lk @ Nielsen Rd (400034)Unassessed structure71.02500001.831001000135Noomst Cr @ unnamed (1000135)Unassessed structure81.38000001.38203320Trib to Bella Coola R @ Hwy 20 (203320/1000176)Data-deficient barrier91.23000001.23203321Trib to Nooklikonnik Cr @ Hwy 20 (203321/1000778)Data-deficient barrier100.86000000.86203326Trib to Snootli Cr @ Walker Park Rd (203326/1000017)Data-deficient barrier110.91000000.911001000007Trib to Bella Coola R @ Hwy 20 (1000007)Unassessed structure122.22000002.221000400423Trib to Whitton Cr @ unnamed (400423)Unassessed structure130.74000000.741001000822Trib to Talchako R @ Unnamed (1000822)Unassessed structure140.72000000.72203327Trib to Snooka Cr @ Hwy 20 (203327/100016)Data-deficient barrier150.66000000.661000400057Trib 1 to Charlotte Lk @ Private (400057)Unassessed structure160.48333330.061000400031Trib 1 to Charlotte Lk @ Engadin Rd (400031)Unassessed structure160.48333330.031000400012Trib 1 to Charlotte Lk @ Charlotte Lk Rd (400012)Unassessed structure160.48333331.361001000057Trib to Talchako R @ Unnamed (1000057)Unassessed structure170.58000000.58203336Molly Walker Cr @ Hwy 20 (203336)Data-deficient barrier180.52000000.521000400398Trib 5 to Charlotte Lk @ Unnamed (400398)Unassessed structure190.51000000.511000400468Trib 4b to Charlotte Lk @ 51-13 FSR (400468)Unassessed structure200.35500000.001000400072Trib 4b to Charlotte Lk @ spur off 51-13 FSR (400072)Unassessed structure200.35500000.71",
     "crumbs": [
       "Connectivity Status Results"
     ]
@@ -200,11 +180,21 @@
     ]
   },
   {
+    "objectID": "content/work-planning.html#priority-barriers",
+    "href": "content/work-planning.html#priority-barriers",
+    "title": "Work Planning",
+    "section": "Priority Barriers",
+    "text": "Priority Barriers\nNo priority barriers were identified within the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds as of May 2026.",
+    "crumbs": [
+      "Work Planning"
+    ]
+  },
+  {
     "objectID": "content/progress-reporting.html",
     "href": "content/progress-reporting.html",
     "title": "Progress Reporting",
     "section": "",
-    "text": "Progress Reporting\nThis WCRP was initiated in 2023. Since then, the passability of X structures has been assessed and the model updated to reflect the status of these structures.",
+    "text": "Progress Reporting\nThis WCRP was initiated in 2023. Since then, the passability of 47 structures has been assessed and the model updated to reflect the status of these structures.",
     "crumbs": [
       "Progress Reporting"
     ]
@@ -271,22 +261,11 @@
     ]
   },
   {
-    "objectID": "content/appendix-a.html#priority-barriers-1",
-    "href": "content/appendix-a.html#priority-barriers-1",
-    "title": "Appendix A – Status of Structures Assessed in the Field",
-    "section": "Priority Barriers",
-    "text": "Priority Barriers\nThere were no non-actionable barriers identified through this WCRP as of 2026.",
-    "crumbs": [
-      "Appendices",
-      "Appendix A – Status of Structures Assessed in the Field"
-    ]
-  },
-  {
     "objectID": "content/appendix-a.html#data-deficient-barriers",
     "href": "content/appendix-a.html#data-deficient-barriers",
     "title": "Appendix A – Status of Structures Assessed in the Field",
     "section": "Data-deficient Barriers",
-    "text": "Data-deficient Barriers\nTable 2: Structures in Atnarko River, Necleetsconnay River, and Bella Coola River watersheds that have been assessed for fish passage for Pacific salmon as of May 2026, but either require an additional in-depth fish-passage assessment to confirm the passability status or a habitat assessment to confirm upstream habitat values.",
+    "text": "Data-deficient Barriers\n\n\nTable 2: Structures in Atnarko River, Necleetsconnay River, and Bella\nCoola River watersheds that have been assessed for fish passage for\nPacific salmon as of May 2026, but either require an additional in-depth\nfish-passage assessment to confirm the passability status or a habitat\nassessment to confirm upstream habitat values.Barrier IDSite NameWatershed NameStructure TypeAssessment Step CompletedNext StepReasonNotesSupporting Links203323Fish Cr @ Private (203323/24727680)BELAStream crossing - CBSBarrier assessmentHabitat confirmation (data deficient structures only)Stream channel width and slope visually estimated from photos. Upstream habitat has good channel features (LWD, SWD, OV) and stable structure with good substrates (10% fines), culverts outlet directly to Bella Coola River.http://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=204873203334Schoolhouse Cr @ Olsen Rd (203334/24727681)BELAStream crossing - CBSBarrier assessmentHabitat confirmation (data deficient structures only)Historical Coho observations and in situ observation of sport fish (CT/DV)http://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=204884203329Trib to Snooka Cr @ Hwy 20 (203329/1000023)BELAStream crossing - CBSBarrier assessmentHabitat confirmation (data deficient structures only)Triple culvert (2 CSPs + 1 wooden steelbound). Habitat braids off from ditch to mixed forest wetland habitat. Area of upstream habtiat appears to be an extensive network of small braided channels through mixed forest wetland habitat. Small channelsin in this area range from 0.5-1.0 m in width on average. Downstream flow of stream redirected into excavated ditch.http://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=204879203320Trib to Bella Coola R @ Hwy 20 (203320/1000176)BELAStream crossing - CBSBarrier assessmentEngage with partnersNoted as medium quality habitat in PSCIS but low quality in notes. Determine whether to advance to habitat confirmation or exclude.http://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=204870203321Trib to Nooklikonnik Cr @ Hwy 20 (203321/1000778)BELAStream crossing - CBSBarrier assessmentHabitat confirmation (data deficient structures only)High quality habitat with salmonid presence confirmed. Substrate a mix of good spawning gravels (70%) and fines 930%) downstream. More organinc materials upstream with 70% fines, 30% gravels. Potential for migratory, rearing, spawning habitat. Juvenile presence and adult carcasses observed.http://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=204871203326Trib to Snootli Cr @ Walker Park Rd (203326/1000017)BELAStream crossing - CBSBarrier assessmentHabitat confirmation (data deficient structures only)High quality habitatDouble culvert. Outlet pool beyond culvert possibly created by culvert install. ~3 cm organic materials covering gravel/sandy substrate.http://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=204876203327Trib to Snooka Cr @ Hwy 20 (203327/100016)BELAStream crossing - CBSBarrier assessmentEngage with partnersLow quality habitat. Recommend excluding. Confirm with partners. 0021C. Culvert ends are buried. Wooden culvert. No viable habitat or streamcourse at location or upstream/downstream. High amounts of vegetation in ditch downstream. Some groundwater filtering through.http://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=204877203336Molly Walker Cr @ Hwy 20 (203336)BELAStream crossing - CBSBarrier assessmentHabitat confirmation (data deficient structures only)High quality habitat on unmapped streamImmediately upstream and downstream of culvert has good spawning substrate materials. Downstream substrate mostly fines (90-95%) with unstable banks, low gradient, instream veg indicating seasonal low flows.http://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=204886203335Trib to Atnarko Sl @ Hwy 20 (203335/24700721)ATNAStream crossing - CBSBarrier assessmentHabitat confirmation (data deficient structures only)Stream provides seasonal migratory and rearing habitat Dolly Varden/Coho, instream vegetation indicates seasonal stream. Visual observation of Coho fry upstream and downstream of culvert. Debris appears to accumulate at culvert inlet during freshet.203331Trib to Salloompt Cr @ Lost Lk Rd (203331/1000595)BELAStream crossing - CBSBarrier assessmentEngage with partnersLow quality habitat. Determine whether to exclude or advance to habitat confirmationupstream and downstream habitat braided small stream with heavy vegetation, moderate gravels 70/30 fine/coarsehttp://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=204881203333Trib to Bella Coola R @ Hwy 20 (203333/1000187)BELAStream crossing - CBSBarrier assessmentHabitat confirmation (data deficient structures only)Scores as barrier but Coho carcass observed upstrea. Coho Carcass observed upstream of culvert, and live coho adults immediatly downstream of culverthttp://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=204883203332Trib to Salloompt R @ Lost Lk Rd (203332/1000593)BELAStream crossing - CBSBarrier assessmentEngage with partnersSeasonal, high gradient stream. Low quality habitat. Recommend excluding.Scores as potential barrier. https://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=204882203328Trib to Bella Coola R @ Hwy 20 (203328/1000041)BELAStream crossing - CBSBarrier assessmentHabitat confirmation (data deficient structures only)No modeled habitat but confirmed seasonal Coho presenceWater drops onto rocks and pool begins 0.55 m from culvert. Med to high value spawning and rearing habitat with seasonal presence of Coho.http://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=204878",
     "crumbs": [
       "Appendices",
       "Appendix A – Status of Structures Assessed in the Field"
@@ -297,7 +276,7 @@
     "href": "content/appendix-a.html#excluded-structures",
     "title": "Appendix A – Status of Structures Assessed in the Field",
     "section": "Excluded Structures",
-    "text": "Excluded Structures\nTable 3: Structures in Atnarko River, Necleetsconnay River, and Bella Coola River watersheds that are excluded from further consideration in subsequent ranking and work planning because the structure is not present, is confirmed passable (e.g., bridge), or has no habitat upstream for Pacific salmon.",
+    "text": "Excluded Structures\n\n\nTable 3: Structures in Atnarko River, Necleetsconnay River, and Bella\nCoola River watersheds that are excluded from further consideration in\nsubsequent ranking and work planning because the structure is not\npresent, is confirmed passable (e.g., bridge), or has no habitat\nupstream for Pacific salmon.Barrier IDSite NameWatershed NameStructure TypeReason for ExclusionReason DetailsSupporting Links1001000026Bella Coola RiverStream crossing - CBSNo key upstream habitatNo stream 1001000223Bella Coola RiverStream crossing - CBSNo key upstream habitatEphemeral stream, poor habitat value, and high gradient. Culvert provides seasonal runoff drainage with no established stream course.833799d0-c501-4f3d-9d49-9eda6c3a0935Bella Coola RiverDamPassable2033161000400160Atnarko RiverStream crossing - OBSPassableBridgehttp://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=2048662033171024726888Bella Coola RiverStream crossing - OBSPassableBridgehttp://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=2048672033221000400065Atnarko RiverStream crossing - OBSPassableBridgehttp://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=2048722033251024743059Bella Coola RiverStream crossing - OBSPassableBridgehttp://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=204875203330Bella Coola RiverStream crossing - OBSPassableBridgehttp://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=204880203318Bella Coola RiverStream crossing - OBSPassableBridgehttp://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=2048682033191001000717Bella Coola RiverStream crossing - OBSPassableLog stringer bridgehttp://a100.gov.bc.ca/pub/pscismap/imageViewer.do?assessmentId=204869203324Atnarko RiverStream crossing - OBSPassable1001000475Bella Coola RiverOtherNo structureStream has rerouted past all historic structures and is passable1024742407Bella Coola RiverOtherNo structureStream has rerouted past all historic structures and is passable1001000024Bella Coola RiverNoneNo structure and key upstream habitatNo stream or structure present at coordinates1001000479Bella Coola RiverOtherNo structureStream has rerouted past all historic structures and is passable1001000027Bella Coola RiverNoneNo structure and key upstream habitatNo stream or crossing1001000175Bella Coola RiverNoneNo structure and key upstream habitatNo structure or stream1001000140Bella Coola RiverNoneNo structureNo structure1001000302Bella Coola RiverNoneNo structure and key upstream habitatNo structure or watercourse present",
     "crumbs": [
       "Appendices",
       "Appendix A – Status of Structures Assessed in the Field"
@@ -308,7 +287,7 @@
     "href": "content/appendix-b.html",
     "title": "Appendix B – Partners and Detailed Methods",
     "section": "",
-    "text": "Partners\nTable 4: Nuxalk WCRP planning team members. Planning team members contributed to the development of this plan by participating in scoping and planning meetings, and reviewing documents and data.\nTable 5: Additional key actors in the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds. Key actors are the individuals, groups, and/or organizations beyond the planning team with influence and relevant experience. Their engagement will be critical for the successful implementation of this WCRP. Key actors were identified by the planning team and have not necessarily committed to contributing to the implementation and updating of this WCRP.",
+    "text": "Partners\nTable 4: Nuxalk WCRP planning team members. Planning team members\ncontributed to the development of this plan by participating in scoping\nand planning meetings, and reviewing documents and data.NameOrganizationIan Pootlass Nuxalk Nation Iris Siwallace Nuxalk Nation Jason Moody Nuxalk Nation Scott'e Dodds Nuxalk Nation Trinity Mack Nuxalk Nation William Millar Canadian Wildlife Federation  Laura Bernardi Canadian Wildlife Federation  Sarah Sra  Canadian Wildlife Federation  Nick Lapointe  Canadian Wildlife Federation  Nick Manzy-Wright Canadian Wildlife Federation  Betty Rebellato  Canadian Wildlife Federation  Olga Koppel Canadian Wildlife Federation\nTable 5: Additional key actors in the Atnarko River, Necleetsconnay\nRiver, and Bella Coola River watersheds. Key actors are the individuals,\ngroups, and/or organizations beyond the planning team with influence and\nrelevant experience. Their engagement will be critical for the\nsuccessful implementation of this WCRP. Key actors were identified by\nthe planning team and have not necessarily committed to contributing to\nthe implementation and updating of this WCRP.NameOrganizationMegan Adams Central Coast Indigenous Resource Alliance",
     "crumbs": [
       "Appendices",
       "Appendix B – Partners and Detailed Methods"
@@ -323,148 +302,6 @@
     "crumbs": [
       "Appendices",
       "Appendix B – Partners and Detailed Methods"
-    ]
-  },
-  {
-    "objectID": "content/project-overview.html#vision-statement",
-    "href": "content/project-overview.html#vision-statement",
-    "title": "Introduction",
-    "section": "Vision Statement",
-    "text": "Vision Statement",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "content/project-overview.html#focal-species",
-    "href": "content/project-overview.html#focal-species",
-    "title": "Introduction",
-    "section": "Focal Species",
-    "text": "Focal Species\n\nAnadromous Salmon\n\n\nChinook Salmon | Kekèsu | Oncorhynchus tshawytscha\n\n\nCoho Salmon | Sxeyqs | Oncorhynchus kisutch\n\n\nSockeye Salmon | Sqlelten7ùwi | Oncorhynchus nerka",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "content/project-overview.html#barrier-types",
-    "href": "content/project-overview.html#barrier-types",
-    "title": "Introduction",
-    "section": "Barrier Types",
-    "text": "Barrier Types",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "content/project-overview.html#road-stream-crossings",
-    "href": "content/project-overview.html#road-stream-crossings",
-    "title": "Introduction",
-    "section": "Road-stream Crossings",
-    "text": "Road-stream Crossings",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "content/project-overview.html#lateral-barriers",
-    "href": "content/project-overview.html#lateral-barriers",
-    "title": "Introduction",
-    "section": "Lateral Barriers",
-    "text": "Lateral Barriers",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "content/project-overview.html#small-dams-3-m-height",
-    "href": "content/project-overview.html#small-dams-3-m-height",
-    "title": "Introduction",
-    "section": "Small Dams (<3 m height)",
-    "text": "Small Dams (&lt;3 m height)",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "content/project-overview.html#trail-stream-crossings",
-    "href": "content/project-overview.html#trail-stream-crossings",
-    "title": "Introduction",
-    "section": "Trail-stream Crossings",
-    "text": "Trail-stream Crossings",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "content/project-overview.html#natural-barriers",
-    "href": "content/project-overview.html#natural-barriers",
-    "title": "Introduction",
-    "section": "Natural Barriers",
-    "text": "Natural Barriers",
-    "crumbs": [
-      "Introduction"
-    ]
-  },
-  {
-    "objectID": "content/connectivity-status.html#goals",
-    "href": "content/connectivity-status.html#goals",
-    "title": "Key Ecological Attributes and Connectivity Status Results",
-    "section": "Goals",
-    "text": "Goals",
-    "crumbs": [
-      "Key Ecological Attributes and Connectivity Status Results"
-    ]
-  },
-  {
-    "objectID": "content/progress-reporting.html#priority-barriers",
-    "href": "content/progress-reporting.html#priority-barriers",
-    "title": "Progress Reporting",
-    "section": "Priority Barriers",
-    "text": "Priority Barriers",
-    "crumbs": [
-      "Progress Reporting"
-    ]
-  },
-  {
-    "objectID": "content/appendix-c.html",
-    "href": "content/appendix-c.html",
-    "title": "Appendix C – Situation Analys, Strategies, Actions, and Theories of Change",
-    "section": "",
-    "text": "Strategies and Actions",
-    "crumbs": [
-      "Appendices",
-      "Appendix C – Situation Analys, Strategies, Actions, and Theories of Change"
-    ]
-  },
-  {
-    "objectID": "content/appendix-c.html#theories-of-change",
-    "href": "content/appendix-c.html#theories-of-change",
-    "title": "Appendix C – Situation Analys, Strategies, Actions, and Theories of Change",
-    "section": "Theories of Change",
-    "text": "Theories of Change",
-    "crumbs": [
-      "Appendices",
-      "Appendix C – Situation Analys, Strategies, Actions, and Theories of Change"
-    ]
-  },
-  {
-    "objectID": "index.html#executive-summary",
-    "href": "index.html#executive-summary",
-    "title": "",
-    "section": "",
-    "text": "Figure 1: Map of Pacific salmon habitat and structures that are confirmed or potential barriers to fish passage in the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds as of May 2026. Structure data were obtained from BCFishPass and the Canadian Aquatic Barriers Database (aquaticbarriers.ca). The accessibility model represents areas of the watershed that one or more Pacific salmon species could access naturally in the absence of anthropogenic barriers. The habitat model represents the subset of accessible waterbodies that may be used by one or more Pacific salmon species for spawning or rearing. Available local knowledge and data were incorporated and overruled habitat model results. Thick red lines represent habitat considered to be fully disconnected (upstream of barriers or unassessed structures).\n\n\n\n\n\n\nFigure 1: Figure 2: Habitat Accumulation Curve (HAC) showing structures in the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds as of May 2026. Structures are ranked based on how much (km) habitat for Pacific salmon is upstream. The primary y-axis represents the cumulative amount of potential habitat gain (km). Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown.",
-    "crumbs": [
-      "Executive Summary"
-    ]
-  },
-  {
-    "objectID": "content/work-planning.html#priority-barriers",
-    "href": "content/work-planning.html#priority-barriers",
-    "title": "Work Planning",
-    "section": "Priority Barriers",
-    "text": "Priority Barriers\nNo priority barriers were identified within the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds as of May 2026.",
-    "crumbs": [
-      "Work Planning"
     ]
   }
 ]

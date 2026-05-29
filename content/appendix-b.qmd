@@ -1,10 +1,27 @@
 # Appendix B – Partners and Detailed Methods  {-}
 
 ## Partners
-Table 4: Nuxalk WCRP planning team members. Planning team members contributed to the development of this plan by participating in scoping and planning meetings, and reviewing documents and data. 
+```{r echo = FALSE}
+#| label: table-4
+#| tbl-cap: "Table 4: Nuxalk WCRP planning team members. Planning team members contributed to the development of this plan by participating in scoping and planning meetings, and reviewing documents and data."
+#| warning: false
+source("Rscripts/table_formatting.R")
+data <- read.csv("tracking-tables/tbl-4-partners.csv", check.names=FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
 
-Table 5: Additional key actors in the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds. Key actors are the individuals, groups, and/or organizations beyond the planning team with influence and relevant experience. Their engagement will be critical for the successful implementation of this WCRP. Key actors were identified by the planning team and have not necessarily committed to contributing to the implementation and updating of this WCRP. 
-
+```{r echo = FALSE}
+#| label: table-5
+#| tbl-cap: "Table 5: Additional key actors in the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds. Key actors are the individuals, groups, and/or organizations beyond the planning team with influence and relevant experience. Their engagement will be critical for the successful implementation of this WCRP. Key actors were identified by the planning team and have not necessarily committed to contributing to the implementation and updating of this WCRP."
+#| warning: false
+source("Rscripts/table_formatting.R")
+data <- read.csv("tracking-tables/tbl-5-working-group.csv", check.names=FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
 ## Detailed Methods {-}
 For details about accessibility, habitat, or connectivity models including structure-ranking methods, see detailed documentation for BCFishPass here:  
 

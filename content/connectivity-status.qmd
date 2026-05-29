@@ -17,5 +17,13 @@ In the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds, 47
 
 
 ## Habitat Accumulation Summary Table
-Table 1: Labelled structures in the Habitat Accumulation Curve (@fig-2-HAC), their rank, and upstream habitat for Pacific salmon in Atnarko River, Necleetsconnay River, and Bella Coola River watersheds. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored.  
-
+```{r echo = FALSE}
+#| label: table-14
+#| tbl-cap: "Table 1: Labelled structures in the Habitat Accumulation Curve (@fig-2-HAC), their rank, and upstream habitat for Pacific salmon in Atnarko River, Necleetsconnay River, and Bella Coola River watersheds. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored."
+#| warning: false
+source("Rscripts/table_formatting.R")
+data <- read.csv("tracking-tables/tbl-1-HAS.csv", check.names=FALSE)
+ft <- flextable(data)
+ft <- format_flextable(ft)
+ft
+```
