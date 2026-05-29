@@ -2,10 +2,10 @@
 # Connectivity Status Results  {-}
 
 ## Current Connectivity Status {-}
-In the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds, 749.5 km of Pacific salmon habitat are currently connected to the ocean and 38.6 km are disconnected from it. This means that 95% of the 788.1 km of total habitat is connected 
+In the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds, 750 km of Pacific salmon habitat are currently connected to the ocean and 39 km are disconnected from it. This means that 95% of the 788 km of total habitat is connected 
 
 ## Structure Count {-}
-In the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds, 47 structures potentially disconnect Pacific salmon habitat. Of these, 0 are identified as barriers in need of rehabilitation (priority barriers), 0 are identified as barriers that do not warrant rehabilitation (non-actionable), and X require further field assessment. 
+In the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds, 47 structures potentially disconnect Pacific salmon habitat. Of these, 0 are identified as barriers in need of rehabilitation (priority barriers), 0 are identified as barriers that do not warrant rehabilitation (non-actionable), and 34 require further field assessment. 
 
 
 ## Maps {-}
@@ -13,9 +13,9 @@ In the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds, 47
 
 
 ## Habitat Accumulation Curves
-![Figure 2: Habitat Accumulation Curve (HAC) showing structures in the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds as of May 2026. Structures are ranked based on how much (km) habitat for Pacific salmon is upstream. The primary y-axis represents the cumulative amount of potential habitat gain (km). Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown.](images/Fig_2_HAC.png)
+![Figure 2: Habitat Accumulation Curve (HAC) showing structures in the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds as of May 2026. Structures are ranked based on how much (km) habitat for Pacific salmon is upstream. The primary y-axis represents the cumulative amount of potential habitat gain (km). Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown.](images/Fig_2_HAC.png){#fig-2-HAC}
 
 
 ## Habitat Accumulation Summary Table
-Table 1: Labelled structures in the Habitat Accumulation Curve (Figure 2), their rank, and upstream habitat for Pacific salmon in Atnarko River, Necleetsconnay River, and Bella Coola River watersheds. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored.  
+Table 1: Labelled structures in the Habitat Accumulation Curve (@fig-2-HAC), their rank, and upstream habitat for Pacific salmon in Atnarko River, Necleetsconnay River, and Bella Coola River watersheds. Habitat gain (averaged across sets) represents the amount (km) of habitat upstream of that structure to the next structure and depicts the potential gain in habitat if passage at that structure was restored.  
 
