@@ -12,7 +12,7 @@ As knowledge gaps are closed and barriers are addressed, this plan is revised to
 
 
 ## Scope  {-}
-This WCRP focuses on habitat connectivity for Pacific salmon in the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds (@fig-geoscope). Watersheds and focal species were chosen by the Nuxalk Nation based on the cultural importance of these species to the nation. Chum Salmon (*O. keta*), Pink Salmon (*O. gorbuscha*), steelhead (*O. mykiss*)* and Eulachon (*Thaleichthys pacificus*) are also important species for the Nuxalk Nation; however, the decision was made to focus on a subset of species and watersheds to start, with the intent to expand the scope as capacity allows over time.    
+This WCRP focuses on habitat connectivity for Chinook Salmon, Coho Salmon, and Sockeye Salmon, herein referred to as Pacific salmon, in the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds (Figure 3). Watersheds and focal species were chosen by the Nuxalk Nation based on the cultural importance of these species to the nation. Chum Salmon (O. keta), Pink Salmon (O. gorbuscha), steelhead (O. mykiss) and Eulachon (Thaleichthys pacificus) are also important species for the Nuxalk Nation; however, the decision was made to focus on a subset of species and watersheds to start, with the intent to expand the scope as capacity allows over time.   
 
 Model outputs include an estimate of the current connectivity status along with structure ranks and counts. Multiple watersheds, biological models/species (i.e., Chinook Salmon, Coho Salmon, and Sockeye Salmon) and life stages/habitat types (i.e. rearing and spawning) were lumped to provide a more comprehensive conservation planning focus for all focal species.  
 

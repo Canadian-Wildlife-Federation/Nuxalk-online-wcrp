@@ -1,7 +1,7 @@
 # Progress Reporting {-}
 
 ## Progress Reporting {-}
-This WCRP was initiated in 2023. Since then, the passability of 47 structures has been assessed and the model updated to reflect the status of these structures.  
+This WCRP was initiated in 2023. Since then, the passability of 32 structures has been assessed and the model updated to reflect the status of these structures.  
 
 ## Rehabilitated Barriers {-}
 No barriers were rehabilitated through the implementation of this WCRP as of May 2026. 
@@ -9,7 +9,7 @@ No barriers were rehabilitated through the implementation of this WCRP as of May
 ## Annual Progress Report {-}
 Since April 2024, the following actions were completed: 
 
-Barrier assessments were completed for 31 structures, resulting in 13 structures confirmed as barriers and 19 structures excluded as passable or non-existent, or because there was no habitat upstream.  
+Barrier assessments were completed for 32 structures, resulting in 13 structures confirmed as barriers and 19 structures excluded as passable or non-existent, or because there was no habitat upstream.  
 
 The connectivity model was updated based on the above actions, and  
 
