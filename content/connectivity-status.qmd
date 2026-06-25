@@ -13,7 +13,7 @@ In the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds, 47
 
 
 ## Habitat Accumulation Curves
-![Figure 2: Habitat Accumulation Curve (HAC) showing structures in the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds as of May 2026. Structures are ranked based on how much (km) habitat for Pacific salmon is upstream. The primary y-axis represents the cumulative amount of potential habitat gain (km). Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown.](images/Fig_2_HAC.png){#fig-2-HAC}
+![Figure 2: Habitat Accumulation Curve (HAC) showing structures in the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds as of May 2026. Structures are ranked based on how much (km) habitat for Pacific salmon is upstream. The primary y-axis represents the cumulative amount of potential habitat gain (km). Sets of structures are indicated by a grey line below the curve, indicating that gains from addressing the downstream structure alone would be less than the combined gains from addressing all structures in the set. Habitat upstream of unassessed structures is considered disconnected until field assessments are completed. Structures that were excluded as passable are not shown.](images/Fig_2_HAC.png)
 
 
 ## Habitat Accumulation Summary Table
@@ -23,6 +23,8 @@ In the Atnarko River, Necleetsconnay River, and Bella Coola River watersheds, 47
 #| warning: false
 source("Rscripts/table_formatting.R")
 data <- read.csv("tracking-tables/tbl-1-HAS.csv", check.names=FALSE)
+data[["Average Habitat Upstream of Structure (km)"]] <- as.numeric(data[["Average Habitat Upstream of Structure (km)"]])
+data[["Actual Habitat Upstream of Structure (km)"]] <- as.numeric(data[["Actual Habitat Upstream of Structure (km)"]])
 ft <- flextable(data)
 ft <- format_flextable(ft)
 ft
