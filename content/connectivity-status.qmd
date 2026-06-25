@@ -27,5 +27,15 @@ data[["Average Habitat Upstream of Structure (km)"]] <- as.numeric(data[["Averag
 data[["Actual Habitat Upstream of Structure (km)"]] <- as.numeric(data[["Actual Habitat Upstream of Structure (km)"]])
 ft <- flextable(data)
 ft <- format_flextable(ft)
+ft <- colformat_num(
+  ft,
+  j = c(
+    "Average Habitat Upstream of Structure (km)",
+    "Actual Habitat Upstream of Structure (km)"
+  ),
+  digits = 2,
+  big.mark = "",
+  decimal.mark = "."
+)
 ft
 ```
